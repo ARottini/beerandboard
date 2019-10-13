@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d81e017-7540-441a-b5bb-a1d3cf9fe98e" name="Default Changelist" comment="update index.html">
-      <change afterPath="$PROJECT_DIR$/images/facebook-official.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/partner/disturbedfriends.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/partner/hexplore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/partner/playerten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/partner/rbgames.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/partner/snakeoil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/partner/sparklekitty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placeholder/icons/youtube.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bulma/bulma.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bulma/bulma.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liveshowrequests.html" beforeDir="false" afterPath="$PROJECT_DIR$/liveshowrequests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/placeholder/icons/facebook-official.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sponsor.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/placeholder/icons/safari.svg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +62,7 @@
       <workItem from="1570300359134" duration="454000" />
       <workItem from="1570904642334" duration="4738000" />
       <workItem from="1570919091382" duration="9664000" />
+      <workItem from="1570987662932" duration="956000" />
     </task>
     <servers />
   </component>
