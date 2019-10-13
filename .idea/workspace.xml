@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d81e017-7540-441a-b5bb-a1d3cf9fe98e" name="Default Changelist" comment="update index.html">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/facebook-official.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/partner/disturbedfriends.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/partner/hexplore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/partner/playerten.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/partner/rbgames.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/partner/snakeoil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/partner/sparklekitty.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bulma/bulma.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bulma/bulma.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liveshowrequests.html" beforeDir="false" afterPath="$PROJECT_DIR$/liveshowrequests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/placeholder/icons/facebook-official.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sponsor.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsor.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +31,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RTh6LFkolHt2DTUwg4E3YB2KhH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -56,6 +72,7 @@
       <workItem from="1570280493899" duration="2688000" />
       <workItem from="1570300359134" duration="454000" />
       <workItem from="1570904642334" duration="4738000" />
+      <workItem from="1570919091382" duration="9664000" />
     </task>
     <servers />
   </component>
@@ -70,7 +87,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -78,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update index.html" />
     <option name="LAST_COMMIT_MESSAGE" value="update index.html" />
   </component>
